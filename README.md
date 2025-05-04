@@ -20,7 +20,7 @@
 ### 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/benita-idachaba-24450629b)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://x.com/iamben_ita)
-[![Data.Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat)](https://www.datascienceportfol.io/benitaid2004)
+[![Data.Portfolio](https://img.shields.io/badge/Data.Portfolio-grey?style=flat)](https://www.datascienceportfol.io/benitaid2004)
 
 ---
 

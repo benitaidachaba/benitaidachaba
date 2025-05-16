@@ -6,10 +6,6 @@
 
 🚀 I’m passionate about building data-driven solutions and scalable backend systems. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-📈 My goals for 2025:
-- Contribute to open-source projects
-- Launch a personal portfolio site
-- Build a full-stack app combining data + backend logic
 
 ---
 

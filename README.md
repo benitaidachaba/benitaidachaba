@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm benita idachaba!</h1>
+<h1 align="center">Hi , I'm benita idachaba!</h1>
 <h3 align="center">A Data Analyst exploring the world of Backend Development</h3>
 
 🔍 I’m currently deepening my skills in:
-- 🖥️ **Backend Development** (Django, PostgreSQL, REST APIs)
+- **Backend Development** (Django, PostgreSQL, REST APIs)
 
-🚀 I’m passionate about building data-driven solutions and scalable backend systems. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I’m passionate about building data-driven solutions and scalable backend systems. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-
----
-
-💡 **Fun Fact**: I blend storytelling with data, and now I’m learning to turn that into functional software.
 
 ---
 
-### 📫 Connect With Me:
+**Fun Fact**: I blend storytelling with data, and now I’m learning to turn that into functional software.
+
+---
+
+### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/benita-idachaba-24450629b)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://x.com/iamben_ita)
 [![Data.Portfolio](https://img.shields.io/badge/Data.Portfolio-grey?style=flat)](https://www.datascienceportfol.io/benitaid2004)
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -41,6 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=benitaidachaba&show_icons=true&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=benitaidachaba&theme=tokyonight&hide_border=false)<br/>
